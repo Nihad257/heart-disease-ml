@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Heart Disease Prediction using Machine Learning in R
 
 ## 📌 Objective
