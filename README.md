@@ -42,7 +42,7 @@ Created new feature: risk_score = resting_bp_s × cholesterol
 ![Decision Tree](/dicision%20tree.png)
 
 ### Random Forest Feature Importance
-![Random Forest](random forest.png)
+![Random Forest](random%20forest.png)
 
 ### ROC Curve
 ![ROC](roc.png)
