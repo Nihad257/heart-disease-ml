@@ -60,3 +60,7 @@ Created new feature: risk_score = resting_bp_s × cholesterol
 -   rpart
 -   randomForest
 -   pROC
+
+## 🧾 Conclusion
+
+Random Forest performed the best with an AUC of 0.96 and high accuracy, making it a strong model for clinical heart disease prediction. Feature importance revealed clinically relevant predictors like ST slope, chest pain type, and risk score.
