@@ -1,5 +1,3 @@
-install.packages(c("ggplot2","caret","rpart","randomForest","pROC"))
-
 library(ggplot2)
 library(caret)
 library(rpart)
