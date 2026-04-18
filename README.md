@@ -1,5 +1,11 @@
 # Heart Disease Prediction using Machine Learning in R
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Language](https://img.shields.io/badge/language-R-orange.svg)
+![Status](https://img.shields.io/badge/status-Completed-brightgreen.svg)
+
+This project compares performance of multiple ML models for heart disease prediction and identifies important clinical predictors.
+
 ## 📌 Objective
 
 Predict whether a patient has heart disease using clinical parameters.
