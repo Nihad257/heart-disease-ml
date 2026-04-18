@@ -81,7 +81,3 @@ summary(model_log)
 importance_rf <- importance(model_rf)
 write.csv(importance_rf, "rf_feature_importance.csv")
 
-
-varImpPlot(model_rf)
-summary(model_log)
-rpart.plot(model_tree)
